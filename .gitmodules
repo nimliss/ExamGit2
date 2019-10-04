@@ -4,3 +4,6 @@
 [submodule "src/vendor/jquery"]
 	path = src/vendor/jquery
 	url = https://github.com/jquery/jquery
+[submodule "src/vendor/B"]
+	path = src/vendor/B
+	url = https://github.com/Theosakamg-Sandbox/B
