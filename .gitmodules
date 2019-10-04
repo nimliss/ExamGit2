@@ -1,3 +1,6 @@
 [submodule "src/vendor/bootstrap"]
 	path = src/vendor/bootstrap
 	url = https://github.com/twbs/bootstrap
+[submodule "src/vendor/jquery"]
+	path = src/vendor/jquery
+	url = https://github.com/jquery/jquery
